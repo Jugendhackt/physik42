@@ -3,10 +3,3 @@
 }
 
 .whitetext {color: white; font-size: 1.6em; }
-hr { 
-    width: 95%; 
-    height: 5px; 
-    margin: 0 auto;
-    color: blue;
-    background: #dfac20;
-}
